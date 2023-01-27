@@ -8,6 +8,6 @@ return a1.substring(0, i);
 }
 console.log(Substring(['akash is here ', 'akash is try to cheat'])); 
 
-console.log(Substring(['finkraft is hiring', 'finkraft is gone akash '])); 
+console.log(Substring(['finkraft is hiring', 'finkraft is assign test to akash '])); 
 
 console.log(Substring(['Akash is selected by finkraft', 'Akash is gone join finkraft at 9 feb '])); 
